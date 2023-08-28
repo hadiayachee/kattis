@@ -1,0 +1,1 @@
+this is trying to solve this ,but it still in inf loop because it brute force search in row and column
